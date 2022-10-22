@@ -1,0 +1,58 @@
+
+
+
+
+
+
+#titulo-do-site{
+  background-color: #21022d;  
+    color: white;
+    text-align: center;
+   
+}
+
+
+h3{
+    margin-left: 32px;
+    margin-top: 64px;
+}
+#card{
+    padding: 16px;
+}
+
+#corpo{
+    margin: 24px;
+    background-color: #e2d8e7;
+   
+}
+#zero{
+    
+    text-align: center;
+    height: 32px;
+ 
+}
+h3{
+   margin-left: 64px;
+    
+}
+
+  #center{
+   padding-left: 500px;
+  } 
+
+p{
+    margin-left: 64px;
+}
+img{
+  margin-left: 64px;
+}
+
+
+
+#rodape{
+    background-color: #21022d; 
+    color: white;
+    text-align: center;
+    
+
+}
